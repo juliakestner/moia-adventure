@@ -345,8 +345,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":80,
          "firstgid":321,
-         "source":"tileset.tsx"
+         "image":"bigtileset.png",
+         "imageheight":1024,
+         "imagewidth":2560,
+         "margin":0,
+         "name":"bigTileset",
+         "spacing":0,
+         "tilecount":2560,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":16,
