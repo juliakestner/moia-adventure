@@ -26645,6 +26645,19 @@
          "tilecount":9,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":3130,
+         "image":"nature.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"nature",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
