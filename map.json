@@ -90,7 +90,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/niko.studio\/stream\/"
+                 "value":"http:\/\/niko.studio\/stream"
                 }, 
                 {
                  "name":"openWebsitePolicy",
