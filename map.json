@@ -49,7 +49,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/sounds\/bell2.mp3"
+                 "value":"sounds\/bell2.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -67,7 +67,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/theoffice.moia.io\/_\/global\/juliakestner.github.io\/moia-adventure\/sounds\/coffeemachine.mp3"
+                 "value":"sounds\/coffeemachine.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,7 +85,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/theoffice.moia.io\/_\/global\/juliakestner.github.io\/moia-adventure\/sounds\/bell1.mp3"
+                 "value":"sounds\/bell1.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
