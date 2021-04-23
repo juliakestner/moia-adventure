@@ -27,7 +27,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -45,7 +45,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -63,7 +63,7 @@
                  "value":"meetingR1"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -81,7 +81,7 @@
                  "value":"meetingR2"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -99,7 +99,7 @@
                  "value":"sounds\/bell2.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -117,7 +117,7 @@
                  "value":"sounds\/coffeemachine.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -135,7 +135,7 @@
                  "value":"sounds\/bell1.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -153,7 +153,7 @@
                  "value":"https:\/\/codenames.game\/room\/chalk-wheelchair-stream"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -171,7 +171,7 @@
                  "value":"https:\/\/nikopelz.de\/tetris\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -189,7 +189,7 @@
                  "value":"Pluto"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -207,7 +207,7 @@
                  "value":"meetingCouch"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -225,7 +225,7 @@
                  "value":"Balcony"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -243,7 +243,7 @@
                  "value":"Humboldt"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -261,7 +261,7 @@
                  "value":"Einstein"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -279,7 +279,7 @@
                  "value":"Newton"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -297,7 +297,7 @@
                  "value":"TableTennis"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -315,7 +315,7 @@
                  "value":"BackToSchool"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -343,7 +343,7 @@
                  "value":"Press SPACE on your keyboard to enter the open Space!"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -361,7 +361,7 @@
                  "value":"DaVinci"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -379,7 +379,7 @@
                  "value":"Kitchen"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -397,7 +397,7 @@
                  "value":"Bar"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -415,7 +415,7 @@
                  "value":"Lunch"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -433,7 +433,7 @@
                  "value":"https:\/\/jazzkeys.plan8.co\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -445,7 +445,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -457,7 +457,7 @@
          "name":"floorTop",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -469,7 +469,7 @@
          "name":"glaswalls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -481,7 +481,7 @@
          "name":"Top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -493,7 +493,7 @@
          "name":"Extras",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -505,7 +505,7 @@
          "name":"paternoster",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -517,7 +517,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -534,7 +534,7 @@
                  "value":"3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
@@ -552,7 +552,7 @@
                  "value":"4"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":144,
          "x":0,
          "y":0
